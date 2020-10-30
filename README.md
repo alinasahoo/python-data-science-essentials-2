@@ -14,3 +14,15 @@ Here, I haven't included the files of Chapter 1 and 2, since there was no practi
 ## Chapter 2 - Introduction to Machine Learning
 - Machine learning 101
 - Grouping Machine learing algorithms
+
+## Chapter 3 - Regression Models
+- Linear regression
+- Multiple linear regression
+- Logistic regression : Concepts
+- Logistic regression : Data preparation
+- Logistic regression : Treat missing values
+- Logistic regression : Re-encode variables
+- Logistic regression : Validating dataset
+- Logistic regression : Model deployment
+- Logistic regression : Model evaluation
+- Logistic regression : Test prediction
