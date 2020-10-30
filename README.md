@@ -26,3 +26,8 @@ Here, I haven't included the files of Chapter 1 and 2, since there was no practi
 - Logistic regression : Model deployment
 - Logistic regression : Model evaluation
 - Logistic regression : Test prediction
+
+## Chapter 4 - Clustering Models
+- K-means method
+- Hierarchical methods
+- DBSCAN for outlier detection
