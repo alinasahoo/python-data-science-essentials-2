@@ -31,3 +31,15 @@ Here, I haven't included the files of Chapter 1 and 2, since there was no practi
 - K-means method
 - Hierarchical methods
 - DBSCAN for outlier detection
+
+## Chapter 5 - Dimension Reduction Methods
+- Explanatory factor analysis
+- Principal componenet analysis (PCA)
+
+## Chapter 6 - Other Popular Machine Learning Methods
+- Association rules models with Apriori
+- Neural networks with a perceptron
+- Instance-based learning with KNN
+- Decision tree models with CART
+- Bayesian models with Naive Bayes
+- Ensemble models with random forests
